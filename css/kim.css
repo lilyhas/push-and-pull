@@ -1,0 +1,16 @@
+#kimP{
+    background-color: black;
+    font-family :Arial, Helvetica, sans-serif;
+    font-size : 50px;
+    -webkit-text-fill-color: aqua;
+}
+
+#kimA{
+    text-decoration-line: none;
+    color : inherit;
+    -webkit-text-fill-color: aquamarine;
+}
+
+#kimB{
+    background-color: black;
+}
