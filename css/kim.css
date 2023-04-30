@@ -14,3 +14,21 @@
 #kimB{
     background-color: black;
 }
+
+#lilH{
+
+    background-color: rgb(213, 252, 255);
+    font-family :Arial, 'Times New Roman', Times, serif, sans-serif;
+    font-size : 100px;
+    -webkit-text-fill-color: rgb(197, 14, 14);
+
+}
+
+#lilH2{
+
+    
+    font-family :Arial, Times, serif, sans-serif;
+    font-size : 100px;
+    -webkit-text-fill-color: rgb(14, 51, 197);
+
+}
